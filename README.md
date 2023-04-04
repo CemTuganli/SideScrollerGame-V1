@@ -6,7 +6,7 @@ It may read or reduce score/health points false. -
 It may detect arrow damage near arrows and may detect more than once occasionally.
 
 MultiThreading (Threads),
-Definitive lock,
+Definitive Lock,
 2D Lists Collection,
 Singleton Design Pattern &
 Static Class
