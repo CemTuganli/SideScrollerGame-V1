@@ -8,7 +8,7 @@ It may detect arrow damage near arrows and may detect more than once occasionall
 MultiThreading (Threads),
 Definitive lock,
 2D Lists Collection,
-Singleton Design Pattern,
+Singleton Design Pattern &
 Static Class
 
 have been used in this project - Cem Tuğanlı
