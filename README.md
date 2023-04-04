@@ -1,4 +1,4 @@
-This is the Version 1 of my Side Scroller Game.
+This is the Version 1 of my 2D ASCII Side Scroller Game in C#.
 
 Warning: 
 It may take about 1 or 2 seconds to read your keyboard input - 
