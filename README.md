@@ -1,4 +1,4 @@
-This is the Version 1 of my 2D ASCII Side Scroller Game in C#.
+This is the Version 1 of my 2D ASCII Side Scroller Game in C#
 
 Controllers:
 -Press Space for Jump
