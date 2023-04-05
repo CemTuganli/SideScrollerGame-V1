@@ -1,9 +1,9 @@
 This is the Version 1 of my 2D ASCII Side Scroller Game in C#.
 
-Warning: 
-It may take about 1 or 2 seconds to read your keyboard input - 
-It may read or reduce score/health points false. - 
-It may detect arrow damage near arrows and may detect more than once occasionally.
+Controllers:
+-Press Space for Jump
+-Press A and D to go left and right
+-Press F to Fire 
 
 MultiThreading (Threads),
 Definitive Lock,
