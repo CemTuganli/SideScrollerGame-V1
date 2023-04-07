@@ -7,7 +7,7 @@ Controllers:
 
 MultiThreading (Threads),
 Definitive Lock,
-2D Lists Collection,
+2D List Collection,
 Singleton Design Pattern &
 Static Class
 
