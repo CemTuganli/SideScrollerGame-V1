@@ -15,9 +15,11 @@ Hit Gallons with Player Character Icon of "0" to earn points!
 # **About the Code:**
 
 MultiThreading (Threads),
+
 Definitive Lock,
+
 2D List Collection,
-Singleton Design Pattern &
-Static Class
+
+Singleton Design Pattern & Static Class
 
 have been used in this project - Cem Tuğanlı
