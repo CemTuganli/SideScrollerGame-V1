@@ -1,4 +1,4 @@
-This is the Version 1 of my 2D ASCII Side Scroller Game in C#
+2D ASCII Single Player Shooter Command Prompt Game - C#
 
 Controllers:
 -Press Space for Jump
