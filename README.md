@@ -1,4 +1,4 @@
-**2D ASCII Single Player Shooter Command Prompt Game - C#**
+# **2D ASCII Single Player Shooter Command Prompt Game - C#**
 
 HOW TO PLAY:
 
@@ -12,7 +12,7 @@ Avoid Arrows coming towards you!
 
 Hit Gallons with Player Character Icon of "0" to earn points!
 
-About the Code:
+# **About the Code:**
 
 MultiThreading (Threads),
 Definitive Lock,
