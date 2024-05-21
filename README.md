@@ -1,9 +1,18 @@
 2D ASCII Single Player Shooter Command Prompt Game - C#
 
-Controllers:
--Press Space for Jump
--Press A and D to go left and right
--Press F to Fire 
+HOW TO PLAY:
+
+Press 'A' key to move Left
+
+Press 'D' key to move Right
+
+Press 'F' key to shoot Bullets
+
+Avoid Arrows coming towards you!
+
+Hit Gallons with Player Character Icon of "0" to earn points!
+
+About the Code:
 
 MultiThreading (Threads),
 Definitive Lock,
