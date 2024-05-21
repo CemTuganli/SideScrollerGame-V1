@@ -1,4 +1,4 @@
-#**2D ASCII Single Player Shooter Command Prompt Game - C#**
+**#2D ASCII Single Player Shooter Command Prompt Game - C#**
 
 HOW TO PLAY:
 
